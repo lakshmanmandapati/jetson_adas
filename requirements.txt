@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+mediapipe==0.10.9
+numpy
+scipy
+simpleaudio
